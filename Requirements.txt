@@ -32,3 +32,5 @@ Notebook Execution:
 
 4. Execute the notebook cells in sequence from the beginning to the end of the notebook
 
+NOTE: The original dataset can be found on the Kaggle link in the report. It was attached a small version 
+      of the dataset with the submission of this project.
