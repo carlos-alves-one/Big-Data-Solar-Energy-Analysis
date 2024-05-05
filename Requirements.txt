@@ -1,0 +1,41 @@
+
+Pre-Requisites:
+
+1. A Google account to access Google Colab.
+
+2. Access to remote cluster (DSM1) to execute the code on Step No. 4 (Comprehensive Statistical Analysis)
+
+3. A copy of the historical_weather_analysis.ipynb file.
+
+Execution Environment:
+
+1. The notebook shall be executed on Google Colab, which provides a cloud-based 
+   Jupyter Notebook environment.
+
+2. Ensure that the runtime type in Google Colab is set to the desired 
+   setting (e.g., Python 3).
+
+3. Execute the code on Step No. 4 (Comprehensive Statistical Analysis)
+
+Dependency Installation:
+
+1. Before running the notebook, ensure that all Python libraries and dependencies as 
+   specified within the notebook are installed. This may include libraries like pandas, numpy,   
+   matplotlib, etc.
+
+2. Use the !pip install command within a code cell in the notebook to install any necessary   
+   dependencies.
+
+Notebook Execution:
+
+1. Upload the historical_weather_analysis.ipynb file to Google Colab.
+
+2. Once uploaded, open the notebook in Google Colab.
+
+3. Upload external data file historical_weather.csv
+
+4. Execute the notebook cells in sequence from the beginning to the end of the notebook
+
+NOTE: The original dataset can be found on the Kaggle link in the report. It was attached a small version 
+      of the dataset with the submission of this project.
+
